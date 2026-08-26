@@ -6,7 +6,13 @@ Backend --> Node/Express js (Typescript) <br />
 Frotend --> Reactjs , Tailwindcss (Typescript)
 
 ---
-Eg. 
+### Eg. 
+
+https://www.google.com/courses/roshan/01
+
+TO
+
+https://www.myurl.com/sdf33y
 
 ---
 ## Phases 
