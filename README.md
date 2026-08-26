@@ -6,6 +6,10 @@ Backend --> Node/Express js (Typescript) <br />
 Frotend --> Reactjs , Tailwindcss (Typescript)
 
 ---
+Project Git Repo
+https://github.com/Roshan-Metrix/URL-Shortener
+
+---
 ### Eg. 
 
 https://www.google.com/courses/roshan/01
