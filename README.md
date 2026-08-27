@@ -12,7 +12,7 @@ https://github.com/Roshan-Metrix/URL-Shortener
 ---
 ### Eg. 
 
-https://www.google.com/courses/roshan/01
+https://www.randormurl.com/courses/roshan/01
 
 TO
 
