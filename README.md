@@ -44,9 +44,9 @@ MongoDB
 ```
 **Learn**
 - REST
-- Database
+- Database (Mongodb)
 - Routing
-- Validation
+- Validation (Zod tool)
 ---
 ### Version 2
 $Unique$ $short$ $code$ $generation$
