@@ -2,7 +2,8 @@ import express from "express";
 import dotenv from "dotenv";
 import env from "./config/env.js";
 import connectDB from "./config/database.js";
-import urlRouter from "./routes/urlRouter.js";
+import urlRouter from "./routes/url.router.js";
+import { errorMiddleware } from "./middlewares/error.middleware.js";
 
 dotenv.config();
 
@@ -28,6 +29,8 @@ app.get('/health', (req, res) => {
 })
 
 app.use('/api/v1/url',urlRouter);
+
+app.use(errorMiddleware);
 
 app.use((req, res, next) => {
         res.status(404).json({status:'false', message:'Not Found.'})
