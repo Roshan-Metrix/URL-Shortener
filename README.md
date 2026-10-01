@@ -1,5 +1,5 @@
 # URL SHORTENER
-   - RestAPIs, Database Schemas, ID generation, Hashing, Indexing, Basic Hashing , Type of Rate limiting & applying it to our project  
+   - RestAPIs, Database Schemas, ID generation, Hashing, Indexing, Basic Hashing , Type of Rate limiting & applying it to our project.
 
 ## Tech Stacks 
 Backend --> Node/Express js (Typescript) <br />
