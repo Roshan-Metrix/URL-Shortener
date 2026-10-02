@@ -10,7 +10,7 @@ Project Git Repo
 https://github.com/Roshan-Metrix/URL-Shortener
 
 ---
-### Eg. 
+### Sample Eg. 
 
 https://www.randormurl.com/courses/roshan/01
 
