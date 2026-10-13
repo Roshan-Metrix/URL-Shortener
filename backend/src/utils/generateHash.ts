@@ -1,3 +1,4 @@
+// Generate hash for short url function
 export const generateHash = (shortCodeLength:number = 7):string => {
     let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
     let hash = "";
