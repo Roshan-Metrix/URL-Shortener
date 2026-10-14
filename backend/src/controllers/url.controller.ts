@@ -1,6 +1,7 @@
 import { Request, Response, NextFunction } from "express";
 import { createUrlService } from "../services/url.service.js";
 
+// URL creating controller
 export const creatUrlController = async (
   req: Request,
   res: Response,
