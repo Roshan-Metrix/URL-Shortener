@@ -23,3 +23,5 @@ function storeUrls(originalUrl){
 }
 
 console.log(storeUrls("https://www.coesofjrfkjdsfs.com/cours/sdfsf/dfjsfslfhjkhkjh/gffg/?uuid=543535"))
+
+console.log(storeUrls("https://wwww.ehllo/dhfadf"))
