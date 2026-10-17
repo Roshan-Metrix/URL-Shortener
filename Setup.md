@@ -11,3 +11,5 @@ Visit [Click me](./backend/setup.md)
 
 ### Frontend
 Visit [Click me](./frontend/setup.md)
+
+Note: Kindly follow all the instructions accordingly.
