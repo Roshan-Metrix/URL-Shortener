@@ -6,6 +6,7 @@ const App = () => {
     <div className="text-[40px] text-green-500">URL Shortener</div>
       <p>URL shortening software with full system design concept.</p>
     <div className="text-[40px] text-red-500">Web</div>
+<div> Welcome to UrlShortener</div>
     </>
   )
 }
